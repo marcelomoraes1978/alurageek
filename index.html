@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alura Geek</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Alura Geek</h1>
+    <h2>Produtos de Informática</h2>
+  </header>
+ 
+
+  <main>
+    <section class="form-container">
+      <form id="product-form" data-form>
+        <label>
+          Imagem (URL):
+          <input type="url" name="image" data-image required>
+        </label>
+        <label>
+          Título:
+          <input type="text" name="name" data-name required>
+        </label>
+        <label>
+          Valor:
+          <input type="number" name="price" data-price required>
+        </label>
+        <button type="submit" id="add-product-btn">Adicionar Produto</button>
+      </form>
+    </section>
+    
+  </main>
+  <section class="product-container" data-product>
+    <!-- Produtos serão renderizados aqui -->
+  </section>
+  <!-- Rodapé -->
+<footer class="footer">
+  <div class="footer-content">
+    <p>&copy; 2024 AluraGeek. Todos os direitos reservados.</p>
+    <p>Desenvolvido por Marcelo Moraes</p>
+  </div>
+</footer>
+
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

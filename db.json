@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Pen Drive",
+      "price": "45",
+      "image": "./assets/pendrive.png",
+      "id": 1
+    },
+    {
+      "name": "Teclado",
+      "price": "35",
+      "image": "./assets/teclado.png",
+      "id": 2
+    },
+    {
+      "name": "Mouse",
+      "price": "25",
+      "image": "./assets/mouse.png",
+      "id": 3
+    },
+    {
+      "name": "WebCam",
+      "price": "75",
+      "image": "./assets/webcam.png",
+      "id": 4
+    },
+    {
+      "name": "Monitor gamer",
+      "price": "1700",
+      "image": "https://www.pexels.com/pt-br/foto/close-up-do-teclado-do-computador-331788/",
+      "id": 5
+    }
+  ]
+}

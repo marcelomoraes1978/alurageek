@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "name": "Quadro Minimalista",
+        "price": "120",
+        "image": "https://example.com/quadro.jpg",
+        "id": 1
+      },
+      {
+        "name": "Luminária de Mesa",
+        "price": "80",
+        "image": "https://example.com/luminaria.jpg",
+        "id": 2
+      },
+      {
+        "name": "Vaso Decorativo",
+        "price": "50",
+        "image": "https://example.com/vaso.jpg",
+        "id": 3
+      },
+      {
+        "name": "Tapete Bege",
+        "price": "200",
+        "image": "https://example.com/tapete.jpg",
+        "id": 4
+      }
+    ]
+  }
+  

@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Pen Drive",
+      "price": "45",
+      "image": "./assets/pendrive.png",
+      "id": 1
+    },
+    {
+      "name": "Teclado",
+      "price": "35",
+      "image": "./assets/teclado.png",
+      "id": 2
+    },
+    {
+      "name": "Mouse",
+      "price": "25",
+      "image": "./assets/mouse.png",
+      "id": 3
+    },
+    {
+      "name": "WebCam",
+      "price": "75",
+      "image": "./assets/webcam.png",
+      "id": 4
+    }
+  ]
+}
