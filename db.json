@@ -23,12 +23,6 @@
       "price": "75",
       "image": "./assets/webcam.png",
       "id": 4
-    },
-    {
-      "name": "Monitor gamer",
-      "price": "1700",
-      "image": "https://www.pexels.com/pt-br/foto/close-up-do-teclado-do-computador-331788/",
-      "id": 5
     }
   ]
 }
